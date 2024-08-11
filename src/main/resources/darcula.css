@@ -1,0 +1,40 @@
+.root {
+    -fx-background-color: #2b2b2b;
+}
+
+.button {
+    -fx-background-color: #3c3f41;
+    -fx-text-fill: #a9b7c6;
+    -fx-cursor: pointer;
+}
+
+.combo-box {
+    -fx-background-color: #3c3f41;
+    -fx-text-fill: #a9b7c6;
+    -fx-border-color: transparent;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-cursor: pointer;
+}
+
+.radio-button {
+    -fx-text-fill: #a9b7c6;
+    -fx-cursor: pointer;
+}
+
+.hbox {
+    -fx-alignment: center;
+}
+
+.vbox {
+    -fx-alignment: center;
+    -fx-spacing: 10;
+}
+
+#operation-count-label {
+    -fx-background-color: #44475a;
+    -fx-text-fill: #f8f8f2;
+    -fx-padding: 5px 10px;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
